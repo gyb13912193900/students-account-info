@@ -10,7 +10,7 @@ header {
 }
 
 .logo {
-    width: 650px;
+    width: 1000px;
     height: auto;
     margin-right: 20px;
 }
@@ -27,7 +27,7 @@ h1, h2 {
 
 .footer-image {
     display: block;
-    width: 650px;
+    width: 2080px;
     height: auto;
     margin: 20px auto;
 }
