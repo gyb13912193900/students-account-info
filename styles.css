@@ -24,3 +24,10 @@ h1, h2 {
     padding: 20px;
     margin-bottom: 10px;
 }
+
+.footer-image {
+    display: block;
+    width: 650px;
+    height: auto;
+    margin: 20px auto;
+}
