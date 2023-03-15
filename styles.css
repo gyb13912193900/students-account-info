@@ -37,7 +37,7 @@ footer {
 
 .footer-image {
     display: block;
-    width: 850px; /* Set the desired width of the image */
+    width: 2500px; /* Set the desired width of the image */
     height: auto; /* Adjust the height proportionally to maintain aspect ratio */
     margin: 0; /* Remove margin */
 }
